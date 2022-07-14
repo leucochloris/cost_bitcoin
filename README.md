@@ -1,2 +1,2 @@
 # cost_bitcoin
-Visual a cost of BTC by MPL
+Visual a cost of BTC by matplotlib
