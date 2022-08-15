@@ -1,5 +1,5 @@
 # cost_bitcoin
-#3# Visual a cost of BTC by matplotlib
+### Visual a cost of BTC by matplotlib
 
 
 
